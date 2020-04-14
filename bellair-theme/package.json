@@ -1,0 +1,22 @@
+{
+    "name": "bellair-theme",
+    "displayName": "bellair-theme",
+    "publisher": "codyloyd",
+    "description": "theme",
+    "version": "0.4.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "bellair",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bellair-color-theme.json"
+            }
+        ]
+    }
+}
