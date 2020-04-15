@@ -21,16 +21,10 @@
 		"editorLineNumber.activeForeground": "#6B7B88",
 		"editorCursor.background": "#0e0f18",
 		"editorCursor.foreground": "#FCBC5B",
-		"editor.wordHighlightBackground": "#dee6ee22",
 		"editor.wordHighlightBorder": "#6B7B8800",
-		"editor.wordHighlightStrongBackground": "#639fff33",
-		"editor.findMatchBackground": "#4130a788",
-		"editor.findMatchHighlightBackground": "#4130a744",
 		"editor.lineHighlightBorder": "#6B7B8800",
 		"editor.lineHighlightBackground": "#6B7B8811",
 		"editorRuler.foreground": "#6B7B8844",
-		"editor.selectionBackground": "#639fff33",
-		"editor.selectionHighlightBackground": "#6B7B8844",
     "editorBracketMatch.background": "#639fff55",
     "editorBracketMatch.border": "#4130a744",
     "editorCodeLens.foreground": "#6B7B88",
@@ -40,6 +34,33 @@
 		"editorWidget.border": "#4130a788",
 		"editorWidget.resizeBorder": "#4130a788",
 		"editorWhitespace.foreground": "#6B7B8833",
+
+		// Okay this part is confusing as heck!
+		// Thanks to Wes Bos for his config.. 
+		// i ripped these comments from his and changed the colors
+
+    // Currently found item
+    "editor.findMatchBackground": "#4130a7aa",
+    // Other Found Items int the document
+    "editor.findMatchHighlightBackground": "#6B7B8844",
+    // WTF is this one for? I don't know
+    "editor.findRangeHighlightBackground": "#243E51",
+    // When you hover over something and a popup shows, this highlights that thing
+    "editor.hoverHighlightBackground": "#ffc60033",
+    // when you have something selected, but have lost focus on the editor
+    "editor.inactiveSelectionBackground": "#003b8b",
+    // current line styles
+    "editor.rangeHighlightBackground": "#639fff18",
+    // selected Text colours
+    // This is the standard Select colour
+    "editor.selectionBackground": "#3D87FF44",
+    // This is the colour of the other matching elements
+    "editor.selectionHighlightBackground": "#4130a7aa",
+    // Word Highlights! This happens when you move your cursor inside a variable
+    // Strong is the one where your cursor currently is
+    "editor.wordHighlightStrongBackground": "#6B7B8824",
+    // and this one is the rest of them
+    "editor.wordHighlightBackground": "#6B7B8814",
 		
 		// editorGroupHeader
 		"editorGroupHeader.noTabsBackground": "#0e0f18",
@@ -123,6 +144,16 @@
 		"statusBar.border": "#0A0A0B",
 		"statusBar.foreground": "#6B7B88",
 		"statusBar.background": "#0e0f18",
+		"statusBar.debuggingBackground": "#15232d",
+		"statusBar.debuggingBorder": "#FCBC5B",
+		"statusBar.debuggingForeground": "#FCBC5B",
+		"statusBar.noFolderBackground": "#0e0f18",
+		"statusBar.noFolderBorder": "#0A0A0B",
+		"statusBar.noFolderForeground": "#6B7B88",
+		"statusBarItem.activeBackground": "#4130a7aa",
+		"statusBarItem.hoverBackground": "#4130a7",
+		"statusBarItem.prominentBackground": "#161727",
+		"statusBarItem.prominentHoverBackground": "#161727",
 		
 		//titlebar
 		"titleBar.activeBackground": "#0e0f18",
