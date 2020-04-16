@@ -1,4 +1,4 @@
-# Bellair Dark Theme
+# Bellair Theme for VS Code
 
 it's a theme
 
