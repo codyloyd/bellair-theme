@@ -1,5 +1,6 @@
 # Bellair Theme for VS Code
+![Preview](https://raw.githubusercontent.com/codyloyd/bellair-theme/master/bellair-theme/images/demo.png)
 
-it's a theme
+Clean, Elegant, and Bright.
 
-try it out
+It's an editor theme..you know what to do.
