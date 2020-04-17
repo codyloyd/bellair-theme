@@ -1,9 +1,12 @@
 {
     "name": "bellair-theme",
-    "displayName": "bellair-theme",
+    "displayName": "Bellair",
     "publisher": "codyloyd",
     "description": "theme",
-    "version": "0.9.0",
+    "version": "0.12.0",
+    "repository": {
+        "url": "https://github.com/codyloyd/bellair-theme"
+    },
     "engines": {
         "vscode": "^1.44.0"
     },

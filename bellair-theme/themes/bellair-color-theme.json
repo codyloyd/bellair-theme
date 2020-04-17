@@ -167,8 +167,8 @@
 		"statusBar.noFolderBackground": "#0e0f18",
 		"statusBar.noFolderBorder": "#0A0A0B",
 		"statusBar.noFolderForeground": "#6B7B88",
-		"statusBarItem.activeBackground": "#4130a7aa",
-		"statusBarItem.hoverBackground": "#4130a788",
+		"statusBarItem.activeBackground": "#4130a788",
+		"statusBarItem.hoverBackground": "#4130a755",
 		"statusBarItem.prominentBackground": "#161727",
 		"statusBarItem.prominentHoverBackground": "#161727",
 		
