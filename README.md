@@ -3,4 +3,4 @@
 
 Clean, elegant, and bright.
 
-It's an editor theme..you know what to do.
+It's an editor theme: you know what to do.
